@@ -1,5 +1,9 @@
 # electron-cljs-playground.core
 
+TODO Need to configure for hot-reload 
+https://figwheel.org/docs/npm.html
+
+
 FIXME: Write a one-line description of your library/project.
 
 ## Overview
